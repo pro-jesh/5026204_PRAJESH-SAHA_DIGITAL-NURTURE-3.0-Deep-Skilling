@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58ca341f-6370-426b-aeba-e589ad413117" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Excercise_10/MVCPatternExample/src/MVCPatternTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercise_10/MVCPatternExample/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercise_10/MVCPatternExample/src/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercise_10/MVCPatternExample/src/StudentView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercise_11/DependencyInjectionExample/src/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercise_11/DependencyInjectionExample/src/CustomerRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercise_11/DependencyInjectionExample/src/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercise_11/DependencyInjectionExample/src/DependencyInjectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercise_6/ProxyPatternExample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercise_6/ProxyPatternExample/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercise_6/ProxyPatternExample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercise_6/ProxyPatternExample/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercise_6/ProxyPatternExample/src/Image.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercise_6/ProxyPatternExample/src/ProxyImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercise_6/ProxyPatternExample/src/ProxyPatternTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercise_6/ProxyPatternExample/src/RealImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercise_7/ObserverPatternExample/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercise_7/ObserverPatternExample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercise_7/ObserverPatternExample/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercise_7/ObserverPatternExample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercise_7/ObserverPatternExample/src/MobileApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercise_7/ObserverPatternExample/src/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercise_7/ObserverPatternExample/src/ObserverPatternTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercise_7/ObserverPatternExample/src/Stock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercise_7/ObserverPatternExample/src/StockMarket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercise_7/ObserverPatternExample/src/WebApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercise_8/StrategyPatternExample/src/CreditCardPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercise_8/StrategyPatternExample/src/PayPalPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercise_8/StrategyPatternExample/src/PaymentContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercise_8/StrategyPatternExample/src/PaymentStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercise_8/StrategyPatternExample/src/StrategyPatternTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercise_9/CommandPatternExample/src/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercise_9/CommandPatternExample/src/CommandPatternTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercise_9/CommandPatternExample/src/Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercise_9/CommandPatternExample/src/LightOffCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercise_9/CommandPatternExample/src/LightOnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercise_9/CommandPatternExample/src/RemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_1/SingletonPatternExample/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_1/SingletonPatternExample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_1/SingletonPatternExample/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_1/SingletonPatternExample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_1/SingletonPatternExample/src/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_1/SingletonPatternExample/src/LoggerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_2/FactoryMethodPatternExample/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_2/FactoryMethodPatternExample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_2/FactoryMethodPatternExample/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_2/FactoryMethodPatternExample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_2/FactoryMethodPatternExample/src/Document.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_2/FactoryMethodPatternExample/src/DocumentFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_2/FactoryMethodPatternExample/src/DocumentFactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_2/FactoryMethodPatternExample/src/ExcelDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_2/FactoryMethodPatternExample/src/ExcelDocumentFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_2/FactoryMethodPatternExample/src/PdfDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_2/FactoryMethodPatternExample/src/PdfDocumentFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_2/FactoryMethodPatternExample/src/WordDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_2/FactoryMethodPatternExample/src/WordDocumentFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_3/BuilderPatternExample/src/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_3/BuilderPatternExample/src/ComputerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_4/AdapterPatternExample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_4/AdapterPatternExample/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_4/AdapterPatternExample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_4/AdapterPatternExample/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_4/AdapterPatternExample/src/PayPal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_4/AdapterPatternExample/src/PayPalAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_4/AdapterPatternExample/src/PaymentProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_4/AdapterPatternExample/src/PaymentProcessorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_4/AdapterPatternExample/src/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_4/AdapterPatternExample/src/SquareAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_4/AdapterPatternExample/src/Stripe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_4/AdapterPatternExample/src/StripeAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_5/DecoratorPatternExample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_5/DecoratorPatternExample/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_5/DecoratorPatternExample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_5/DecoratorPatternExample/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_5/DecoratorPatternExample/src/EmailNotifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_5/DecoratorPatternExample/src/Notifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_5/DecoratorPatternExample/src/NotifierDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_5/DecoratorPatternExample/src/NotifierTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_5/DecoratorPatternExample/src/SMSNotifierDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_5/DecoratorPatternExample/src/SlackNotifierDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Structures_and_Algorithms/Exercise_1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_1/code/InventoryManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Structures_and_Algorithms/Exercise_1/code/InventoryManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_1/code/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Structures_and_Algorithms/Exercise_1/code/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Structures_and_Algorithms/Exercise_2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_2/code/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Structures_and_Algorithms/Exercise_2/code/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_2/code/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Structures_and_Algorithms/Exercise_2/code/LinearSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_2/code/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Structures_and_Algorithms/Exercise_2/code/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_2/code/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Structures_and_Algorithms/Exercise_2/code/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Structures_and_Algorithms/Exercise_3/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_3/code/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Structures_and_Algorithms/Exercise_3/code/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_3/code/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Structures_and_Algorithms/Exercise_3/code/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_3/code/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Structures_and_Algorithms/Exercise_3/code/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_3/code/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Structures_and_Algorithms/Exercise_3/code/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_4/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Structures_and_Algorithms/Exercise_4/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_4/code/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Structures_and_Algorithms/Exercise_4/code/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_4/code/EmployeeManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Structures_and_Algorithms/Exercise_4/code/EmployeeManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_4/code/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Structures_and_Algorithms/Exercise_4/code/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_5/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Structures_and_Algorithms/Exercise_5/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_5/code/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Structures_and_Algorithms/Exercise_5/code/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_5/code/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Structures_and_Algorithms/Exercise_5/code/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_5/code/SinglyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Structures_and_Algorithms/Exercise_5/code/SinglyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_5/code/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Structures_and_Algorithms/Exercise_5/code/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_6/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Structures_and_Algorithms/Exercise_6/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_6/code/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Structures_and_Algorithms/Exercise_6/code/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_6/code/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Structures_and_Algorithms/Exercise_6/code/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_6/code/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Structures_and_Algorithms/Exercise_6/code/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_7/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Structures_and_Algorithms/Exercise_7/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise_7/code/FinancialForecast.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Structures_and_Algorithms/Exercise_7/code/FinancialForecast.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2jvlqb35BWwikWu1WsV0PnZl0Mc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/PRAJESH/IdeaProjects/HelloWorld/src/Week1/Design_Patterns_and_Principles"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PRAJESH\IdeaProjects\HelloWorld\src\Week1\Design_Patterns_and_Principles\Exercise_3" />
+      <recent name="C:\Users\PRAJESH\IdeaProjects\HelloWorld\src\Week1\Design_Patterns_and_Principles\Exercise_2" />
+      <recent name="C:\Users\PRAJESH\IdeaProjects\HelloWorld\src\Week1\Design_Patterns_and_Principles\Exercise_1" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58ca341f-6370-426b-aeba-e589ad413117" name="Changes" comment="" />
+      <created>1722275622255</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722275622255</updated>
+    </task>
+    <servers />
+  </component>
+</project>
