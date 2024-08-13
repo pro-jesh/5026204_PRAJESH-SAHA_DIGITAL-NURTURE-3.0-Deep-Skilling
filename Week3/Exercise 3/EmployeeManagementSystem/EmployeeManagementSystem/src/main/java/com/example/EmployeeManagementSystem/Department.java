@@ -10,8 +10,7 @@ import java.util.List;
 @Entity
 @Table(name = "departments")
 @Data
-@AllArgsConstructor
-@NoArgsConstructor
+
 public class Department {
 
     @Id
